@@ -1,0 +1,20 @@
+.idnumber {
+  font-size: medium;
+}
+.description {
+  width: auto;
+  margin-bottom: 2em;
+  margin-top: 2em;
+}
+
+.my-custom-scrollbar {
+  position: relative;
+  height: 411px;
+  overflow: auto;
+  background: transparent;
+  border-radius: 6px;
+  border: 2px solid black;
+}
+.table-wrapper-scroll-y {
+  display: block;
+}
